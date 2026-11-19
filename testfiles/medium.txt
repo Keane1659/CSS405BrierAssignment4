@@ -1,0 +1,21 @@
+The forest is full of life and every tree provides shelter for animals. The birds fly above the trees while small animals search for food below. Some animals live in the forest all year while others travel to warmer places during the winter.
+
+A river flows through the forest and provides water for plants and animals. The water moves over rocks and around fallen trees before reaching a large lake. Many fish live in the river, and birds often visit the water to find food.
+
+The forest changes throughout the year. During spring, new plants begin to grow and flowers appear across the ground. Summer brings warm weather and longer days. During autumn, leaves change color and fall from the trees. Winter brings colder temperatures and sometimes covers the forest with snow.
+
+People visit forests for many reasons. Some people enjoy walking along trails, while others study plants and animals. A forest can also provide wood, clean air, and natural resources. Protecting forests is important because many living things depend on them.
+
+A computer program can also organize information about the world. A program can read words from a text file and count how often each word appears. When the same word appears again, the program increases its count instead of storing another copy.
+
+An AVL tree is useful because it keeps its data organized. Each node stores a word and its frequency. The tree uses left and right children to organize the words alphabetically. When new words are inserted, the tree checks its balance and performs rotations when needed.
+
+Repeated words are important when testing a word frequency program. The word tree appears several times in this file. The word forest also appears several times. The word water appears more than once, and the word animals is repeated throughout the text.
+
+Testing with a larger file helps show whether the program can handle many words. It also helps confirm that repeated words are counted correctly. Punctuation should not prevent the program from reading words, and uppercase letters should be converted to lowercase.
+
+The quick brown fox jumps over the lazy dog. The dog runs through the forest, and the fox runs beside the river. The animals continue searching for food while the birds fly above the trees.
+
+A balanced tree makes searching more efficient because it prevents one side of the tree from becoming much taller than the other. Rotations help maintain this balance after insertions and deletions. In-order traversal displays the words alphabetically, while level-order traversal displays the tree one level at a time.
+
+The program should correctly count words, display the results, and allow words to be searched and deleted. These tests help confirm that the AVL tree works with a larger collection of text.
